@@ -1,6 +1,6 @@
-# java_designPattern
-grade 3, java design pattern homework,2017
---from XuFei,Wang
+# Java Design Pattern
+Coursework in junior year——Java Design Pattern homework,2017  
+--By XuFei Wang
 
 Note:
   the default package:homework6
